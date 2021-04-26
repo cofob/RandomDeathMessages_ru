@@ -39,7 +39,7 @@ HOT_FLOOR:
 LAVA:
   - "<green><[victim]> <yellow>принял ванну в <red>Лаве<yellow>."
   - "<green><[victim]> <yellow>узнал НАСКОЛЬКО <red>Лава <yellow>горячая. Очень."
-  - "<yellow>Купание в <red>Лаве <yellow>это такой себе способ сать чище, <green><[victim]><yellow>."
+  - "<yellow>Купание в <red>Лаве <yellow>это такой себе способ стать чище, <green><[victim]><yellow>."
 LIGHTNING:
   - "<green><[victim]> <yellow>узнал <red>ШОКИРУЮЩУЮ <yellow>правду."
   - "<yellow>Зевсу чем-то не понравился <green><[victim]><yellow>."
