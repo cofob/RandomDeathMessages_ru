@@ -1,0 +1,76 @@
+#
+# Placeholders used in here:
+# <[victim]> = The player that died.
+#
+
+CONTACT:
+  - "<green><[victim]> <yellow>обнял <red>Кактус<yellow>. Очень глупо."
+  - "<green><[victim]> <yellow>вошёл в контакт с чем-то очень колючим."
+CRUSHED:
+  - "<green><[victim]> <yellow>был раздавлен."
+DROWNING:
+  - "<green><[victim]> <yellow>провалил экспедицию на дно <red>Океана."
+  - "<green><[victim]> <yellow>забыл что ему нужен воздух."
+  - "<green><[victim]> <yellow>просто взял и поплыл. Спасибо рыбке Дори за совет."
+  - "<yellow>*Звуки захлёбывания*. Это были последние слова <green><[victim]><yellow>."
+  - "<green><[victim]> <yellow>забыл что он ещё не разблокировал жабры."
+FALL:
+  - "<green><[victim]> <yellow>ответил на телефонный звонок от <red>гравитации<yellow>."
+  - "<green><[victim]> <yellow>оставил парашут дома."
+  - "<green><[victim]> <yellow>не полетел, а просто упал со стилем."
+  - "<yellow>Убивает не падение, <green><[victim]><yellow>. Убивает резкая остановка в конце."
+  - "<green><[victim]><yellow>, дальше земли не упадёшь."
+  - "<green><[victim]> <yellow>из-за падения сломал нечто более важное чем ноги."
+FALLING_BLOCK:
+  - "<green><[victim]> <yellow>подумал что <red>Наковальня <yellow>это головной убор. Она оказалась слишком тяжёлой."
+  - "Эй, <green><[victim]><yellow>. <red>Наковальни <yellow>не должны находиться на голове."
+FIRE:
+  - "<green><[victim]> <red>сгорел <yellow>заживо."
+  - "<yellow>Чувствуете? Рокки что-то готовит! Эй, это же жопа <green><[victim]><yellow>!"
+  - "<green><[victim]> <yellow>Умер в огне."
+  - "<green><[victim]> <yellow>был кримирован."
+  - "<green><[victim]> <yellow>легковозгораемый, если верить тестам."
+  - "<green><[victim]> <yellow>стал пеплом."
+FLY_INTO_WALL:
+  - "<green><[victim]> <yellow>влетел в стену. От него остался лишь тонкий слой мяса и слизи."
+HOT_FLOOR:
+  - "<green><[victim]> <yellow>стал отличным сухариком благодаря <red>Магмовому Блоку<yellow>."
+  - "<green><[victim]> <yellow>погрел себе ноги. Жаль что он перестарался."
+LAVA:
+  - "<green><[victim]> <yellow>принял ванну в <red>Лаве<yellow>."
+  - "<green><[victim]> <yellow>узнал НАСКОЛЬКО <red>Лава <yellow>горячая. Очень."
+  - "<yellow>Купание в <red>Лаве <yellow>это такой себе способ сать чище, <green><[victim]><yellow>."
+LIGHTNING:
+  - "<green><[victim]> <yellow>узнал <red>ШОКИРУЮЩУЮ <yellow>правду."
+  - "<yellow>Зевсу чем-то не понравился <green><[victim]><yellow>."
+POISON:
+  - "<green><[victim]> <yellow>был <red>отравлен <yellow>и помер."
+  - "<yellow>Не было лишнего антидота для <green><[victim]><yellow>. Он умер от <red>отравления<yellow>."
+PRIMED_TNT:
+  - "<green><[victim]> <yellow>был подорван с помощью <red>TNT<yellow>."
+  - "<green><[victim]> <yellow>стоял слишком близко к <red>Динамиту<yellow>."
+
+PROJECTILE:
+  - "<green><[victim]><yellow>, это был трап!"
+  - "<green><[victim]> <yellow>попал в ловушку. И не выпал."
+  - "<green><[victim]> <yellow>превратился в подушку для иголок."
+STARVATION:
+  - "<green><[victim]> <red>умер от <yellow>голода."
+  - "<green><[victim]> не дождался <red>сэндвича<yellow>."
+SUFFOCATION:
+  - "<green><[victim]> <red>задохнулся."
+  - "<green><[victim]> <yellow>забыл как дышать."
+  - "<green><[victim]> <yellow>забыл про воздух."
+SUICIDE:
+  - "<green><[victim]> <yellow>был убит <green><[victim]><yellow>. Это как вообще?"
+  - "<green><[victim]> <yellow>совершил судоку. Эээ, нет... Я хотел сказать <red>самоубийство<yellow>."
+VOID:
+  - "<green><[victim]> <yellow>нашёл <red>Пустоту<yellow>."
+  - "<yellow>Избегай <red>Пустоту<yellow>, <green><[victim]><yellow>."
+  - "<green><[victim]> <yellow>упал в <red>Пустоту<yellow>!"
+  - "<green><[victim]> <yellow>узнал что <red>Пустота <yellow>действительно бесконечно.'"
+  - "<green><[victim]> <yellow>Провалился под мир. Вау."
+  - "<green><[victim]> <yellow>восславил бесконечность."
+  - "<green><[victim]> <yellow>бесконечность - не предел."
+  - "<green><[victim]> <yellow>долго смотрел в Пустоту. Пустота начала смотреть в ответ."
+  - "<green><[victim]> <yellow>отправился изучать <red>Пустоту<yellow>. Что вообще могло пойти не так?"

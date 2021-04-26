@@ -1,0 +1,126 @@
+#
+# Placeholders used in here:
+# <[victim]>
+#
+
+BEE:
+  - "<green><[victim]> <yellow>был зажален досмерти несколько раздражённой <red>Пчелой<yellow>."
+  - "<green><[victim]> <yellow>не с тем улеем связался."
+BLAZE:
+  - "<green><[victim]> <yellow>был сожжён <red>Ифритом<yellow>!"
+CAVE_SPIDER:
+  - "<green><[victim]> <yellow>прокопал глубоко. И стал вкусняшкой для <red>Пещерного Паука<yellow>."
+  - "<yellow>The <red>Пещерные Пауки <yellow>сегодня ночью будут сыты. Спасибо <green><[victim]><yellow>!"
+CREEPER:
+  - "<green><[victim]> <yellow>был разорван на пиксели <red>Крипером<yellow>!"
+  - "<green><[victim]> <yellow>был подорван <red>Крипером<yellow>."
+  - "<yellow>Все <red>Криперы <yellow>хотят обнимашек. <green><[victim]> <yellow>попробовал одного обнять... Идиот."
+  - "<green><[victim]> <yellow>узнал что после '<red>ТсСсссССсССсСс<yellow>' обычно происходит взрыв."
+  - "<green><[victim]> <yellow>встретился с <red>Крипером<yellow>. Сейчас он тут. И там... о, и ещё вон там..."
+DROWNED:
+  - "<green><[victim]> <yellow>познакомился с <red>Утопленником<yellow>. Первые впечатления, мягко говоря, такие себе."
+  - "<green><[victim]> <yellow>был утянут на дно <red>Утопленником<yellow>."
+ELDER_GUARDIAN:
+  - "<green><[victim]> <yellow>был убит <red>Древним Стражем<yellow>."
+  - "<yellow>Лазеры из глаз опасны, <green><[victim]><yellow>. Остерегайся <red>Древних Стражей<yellow>."
+ENDER_DRAGON:
+  - "<green><[victim]> <yellow>Предстал перед <red>Лордом Энда<yellow>. Тхе энд."
+ENDERMAN:
+  - "<yellow>Пялиться вообще-то не красиво, <green><[victim]><yellow>, ОСОБЕННО на <red>Эндермена<yellow>."
+ENDERMITE:
+  - "<yellow>Маленькая и мерзкая <red>Чешуйница Края <yellow>откусила ногу <green><[victim]><yellow>."
+EVOKER_FANGS:
+  - "<green><[victim]> был убит <red>Вызывателем<yellow>."
+GHAST:
+  - "<green><[victim]> <yellow>слишком долго бегал от <red>Гаста <yellow>."
+  - "<green><[victim]> <yellow>получил по морде <red>фаерболлом <yellow>от <red>Гаста<yellow>!"
+GUARDIAN:
+  - "<green><[victim]> <yellow>был убит <red>Стражем<yellow>."
+  - "<yellow>Лазеры из глаз опасны, <green><[victim]><yellow>. Остерегайся <red>Стражей<yellow>."
+HOGLIN:
+  - "<red>Хоглин <yellow>забил <green><[victim]><yellow> до смерти."
+HUSK:
+  - "<yellow>A husky <red>Husk <yellow>husked <green><[victim]><yellow>."
+ILLUSIONER:
+  - "<green><[victim]> <yellow>стал илллюзией."
+IRON_GOLEM:
+  - "<green><[victim]> <yellow>нарушил правила деревни и получил по жопе от <red>Голема<yellow>."
+  - "<green><[victim]> <yellow>развлекался с  <red>Големом <yellow>и был раздавлен в кучку пикселей."
+LLAMA:
+  - "<green><[victim]> <yellow>узнал что у <red>Ламы <yellow>довольно мощный плевок."
+MAGMA_CUBE:
+  - "<green><[victim]> <yellow>искупался в слизи <red>Магмового Куба<yellow>."
+  - "<yellow>Весёлый попрыгун <red>Магмовый Куб <yellow>  не любит когда нарушают его приватность, <green><[victim]><yellow>."
+PHANTOM:
+  - "<green><[victim]> <yellow>давно не спал."
+  - "Кажется у <green><[victim]> <yellow>безсонница. <red>Фантомы <yellow>чувствуют тебя!'"
+PANDA:
+  - "<green><[victim]> <yellow>умер от обнимашек с <red>Пандой<yellow>."
+PIG_ZOMBIE:
+  - "<green><[victim]> <yellow>не проявил уважение к <red>Зомбифицированному пиглину<yellow>."
+PIGLIN:
+  - "<red>Пиглин <yellow>познакомил <green><[victim]> <yellow>со Смертью."
+PIGLIN_BRUTE:
+  - "<green><[victim]> <yellow>был брутально уничтожен <red>Брутальным Пиглином<yellow>."
+PILLAGER:
+  - "<green><[victim]> <yellow>стал жертвой разбоя <red>Разбойника<yellow>."
+PHANTOM:
+  - "<"
+POLAR_BEAR:
+  - "<green><[victim]> <yellow>стал обедом <red>П<yellow>."
+RAVAGER:
+  - "Очко <green><[victim]> <yellow>было <red>Разорено<yellow>."
+SKELETON:
+  - "<red>Скелет <yellow>заснайпил <green><[victim]><yellow>."
+  - "<green><[victim]> <yellow>был опущен <red>Скелетом<yellow>!"
+  - "<red>Скелет <yellow>перемыл косточки <green><[victim]><yellow>."
+  - "<green><[victim]> <yellow>был убит кучкой костей, держащей старый лук. Ты жалок."
+SKELETON_HORSE:
+  - "<green><[victim]> <yellow>был убит мёртвой лошодью."
+SHULKER:
+  - "<green><[victim]> <yellow>получил по шапке от <red>Шалкера<yellow>."
+SILVERFISH:
+  - "<green><[victim]> <yellow>был закусан до смерти. Ох уж эти <red>Чешуйницы<yellow>."
+  - "Труп <green><[victim]> <yellow>был найден с обглоданными лодыжками. Чёртовы <red>Чешуйницы<yellow>."
+SLIME:
+  - "<green><[victim]> <yellow>был заслаймлен <red>Слаймом<yellow>."
+  - "<green><[victim]> <yellow>был <red>Отслаймлен<yellow>!"
+  - "<green><[victim]> <yellow>понял что <red>Слайм <yellow>- такая себе шапка."
+  - "<green><[victim]> <yellow>подошёл слиишком близко к <red>Слайму<yellow>!"
+  - "<green><[victim]> <yellow>был поглощён <red>Слаймом<yellow>!"
+SPIDER:
+  - "<green><[victim]> <yellow>стал жертвой встречи с  <red>Пауком<yellow>."
+  - "<green><[victim]> <yellow>столкнулся с гигантским <red>Пауком<yellow>... F в чат."
+STRAY:
+  - "<red>Скелет <yellow>заснайпил <green><[victim]><yellow>."
+  - "<green><[victim]> <yellow>был опущен <red>Скелетом<yellow>!"
+  - "<red>Скелет <yellow>перемыл косточки <green><[victim]><yellow>."
+  - "<green><[victim]> <yellow>был убит кучкой костей, держащей старый лук. Ты жалок."
+VEX:
+  - "<yellow>An <red>Evoker<yellow>'s tiny little friend killed <green><[victim]><yellow>."
+  - "<green><[victim]> <yellow>was <red>Vexed <yellow>by an <red>Evoker<yellow>'s pet."
+VINDICATOR:
+  - "<yellow>A Vindicator was vindicated by killing <green><[victim]><yellow>."
+WITCH:
+  - "<green><[victim]> <yellow>оказался слаб перед <red>магией ведьм<yellow>."
+  - "<green><[victim]> <yellow>был проклят заскучавшей <red>Ведьмой<yellow>!"
+WITHER_SKELETON:
+  - "<green><[victim]> <yellow>был уничтожен <red>Скелетом-иссушителем<yellow>!"
+WOLF:
+  - "<green><[victim]> <yellow>был разорван в клочья &cВолком<yellow>."
+  - "<green><[victim]> <yellow>стал ужином для голодного &cВолка<yellow>!"
+  - "<green><[victim]> <yellow>потерял свои ноги из-за &cВолка<yellow>!"
+ZOGLIN:
+  - "<green><[victim]> <yellow>был затоптан <red>Зоглином<yellow>!"
+ZOMBIE:
+  - "<green><[victim]> <yellow>посадил слишком мало растений против вторжения <red>Зомби<yellow>."
+  - "Мозг <green><[victim]> <yellow>теперь в слюнях <red>Зомби<yellow>."
+  - "<green><[victim]> <yellow>стал ужином для голодного <red>Зомби<yellow>!"
+  - "<green><[victim]> <yellow>теперь не хватает <red>ммммоозззгоооооооооовввв...<yellow>"
+  - "<green><[victim]> <yellow>подарил свой мозг <red>Зомби<yellow>."
+  - "<green><[victim]> <yellow>пожертвовал свой мозг науке. Или это был <red>Зомби<yellow>?"
+ZOMBIE_VILLAGER:
+  - "<green><[victim]> <yellow>стал безмозглым благодаря <red>Зомби Жителю<yellow>!"
+  - "<green><[victim]> <yellow>, если что - мёртвые любят жрать мозги. Это так. На заметку."
+ZOMBIFIED_PIGLIN:
+  - "У <green><[victim]> <yellow>откусили часть мозга. Кажется это был <red>Зомби-пиглин<yellow>."
