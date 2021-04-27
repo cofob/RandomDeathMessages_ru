@@ -26,7 +26,7 @@ ELDER_GUARDIAN:
 ENDER_DRAGON:
   - "<green><[victim]> <yellow>Предстал перед <red>Лордом Энда<yellow>. Тхе энд."
 ENDERMAN:
-  - "<yellow>Пялиться вообще-то не красиво, <green><[victim]><yellow>, ОСОБЕННО на <red>Эндермена<yellow>."
+  - "<yellow>Пялиться вообще-то некрасиво, <green><[victim]><yellow>, ОСОБЕННО на <red>Эндермена<yellow>."
 ENDERMITE:
   - "<yellow>Маленькая и мерзкая <red>Чешуйница Края <yellow>откусила ногу <green><[victim]><yellow>."
 EVOKER_FANGS:
