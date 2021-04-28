@@ -50,7 +50,7 @@ LLAMA:
   - "<green><[victim]> <yellow>узнал что у <red>Ламы <yellow>довольно мощный плевок."
 MAGMA_CUBE:
   - "<green><[victim]> <yellow>искупался в слизи <red>Магмового Куба<yellow>."
-  - "<yellow>Весёлый попрыгун <red>Магмовый Куб <yellow>  не любит когда нарушают его приватность, <green><[victim]><yellow>."
+  - "<yellow>Весёлый попрыгун <red>Магмовый Куб<yellow> не любит когда нарушают его приватность, <green><[victim]><yellow>."
 PHANTOM:
   - "<green><[victim]> <yellow>давно не спал."
   - "Кажется у <green><[victim]> <yellow>безсонница. <red>Фантомы <yellow>чувствуют тебя!'"
