@@ -4,16 +4,19 @@
 #
 
 CONTACT:
-  - "<green><[victim]> <yellow>обнял <red>Кактус<yellow>. Очень глупо."
-  - "<green><[victim]> <yellow>вошёл в контакт с чем-то очень колючим."
+  - "<green><[victim]> <yellow>обнял <green>кактус. <yellow>Очень глупо, очень."
+  - "<green><[victim]> <yellow>вошёл в интиный контакт с чем-то очень колючим."
 CRUSHED:
-  - "<green><[victim]> <yellow>был раздавлен."
+  - "<red><[victim]> <yellow>был раздавлен."
 DROWNING:
-  - "<green><[victim]> <yellow>провалил экспедицию на дно <red>Океана."
-  - "<green><[victim]> <yellow>забыл что ему нужен воздух."
+  - "<green><[victim]> <yellow>провалил экспедицию на дно <blue>океана."
+  - "<green><[victim]> <yellow>забыл что ему нужен <aqua>воздух."
   - "<green><[victim]> <yellow>просто взял и поплыл. Спасибо рыбке Дори за совет."
-  - "<yellow>*Звуки захлёбывания*. Это были последние слова <green><[victim]><yellow>."
+  - "<yellow>*Звуки захлёбывания* - последние слова <green><[victim]><yellow>."
   - "<green><[victim]> <yellow>забыл что он ещё не разблокировал жабры."
+  - "<green><[victim]> <yellow>, что, жопой дышать не научили?"
+  - "<green><[victim]> <yellow> НАШ КОРААБЛЬ ИДЁТ КО ДНУУУ"
+  - "<green><[victim]> <yellow>две недели ходил в бассейн. Утонул."
 FALL:
   - "<green><[victim]> <yellow>ответил на телефонный звонок от <red>гравитации<yellow>."
   - "<green><[victim]> <yellow>оставил парашют дома."
@@ -22,7 +25,7 @@ FALL:
   - "<green><[victim]><yellow>, дальше земли не упадёшь."
   - "<green><[victim]> <yellow>из-за падения сломал нечто более важное чем ноги."
 FALLING_BLOCK:
-  - "<green><[victim]> <yellow>подумал что <red>Наковальня <yellow>это головной убор. Она оказалась слишком тяжёлой."
+  - "<green><[victim]> <yellow>подумал что <red>наковальня <yellow>это головной убор. Она оказалась слишком тяжёлой."
   - "Эй, <green><[victim]><yellow>. <red>Наковальни <yellow>не должны находиться на голове."
 FIRE:
   - "<green><[victim]> <red>сгорел <yellow>заживо."
@@ -33,19 +36,21 @@ FIRE:
   - "<green><[victim]> <yellow>стал пеплом."
 FLY_INTO_WALL:
   - "<green><[victim]> <yellow>влетел в стену. От него остался лишь тонкий слой мяса и слизи."
+  - "<green><[victim]> <yellow>нежно поцеловал стену."
 HOT_FLOOR:
   - "<green><[victim]> <yellow>стал отличным сухариком благодаря <red>Магмовому Блоку<yellow>."
-  - "<green><[victim]> <yellow>погрел себе ноги. Жаль что он перестарался."
+  - "<green><[victim]> <yellow>хотел погреть себе ноги. Жаль что он перестарался."
 LAVA:
-  - "<green><[victim]> <yellow>принял ванну в <red>Лаве<yellow>."
-  - "<green><[victim]> <yellow>узнал НАСКОЛЬКО <red>Лава <yellow>горячая. Очень."
-  - "<yellow>Купание в <red>Лаве <yellow>это такой себе способ стать чище, <green><[victim]><yellow>."
+  - "<green><[victim]> <yellow>принял ванну в <red>лаве<yellow>."
+  - "<green><[victim]> <yellow>узнал НАСКОЛЬКО <red>лава <yellow>горячая. Очень."
+  - "<yellow>Купание в <red>лаве <yellow>это такой себе способ стать чище, <green><[victim]><yellow>."
 LIGHTNING:
   - "<green><[victim]> <yellow>узнал <red>ШОКИРУЮЩУЮ <yellow>правду."
   - "<yellow>Зевсу чем-то не понравился <green><[victim]><yellow>."
 POISON:
   - "<green><[victim]> <yellow>был <red>отравлен <yellow>и помер."
   - "<yellow>Не было лишнего антидота для <green><[victim]><yellow>. Он умер от <red>отравления<yellow>."
+  - "<green><[victim]> <yellow>решил закосплеить Навального."
 PRIMED_TNT:
   - "<green><[victim]> <yellow>был подорван с помощью <red>TNT<yellow>."
   - "<green><[victim]> <yellow>стоял слишком близко к <red>Динамиту<yellow>."
@@ -62,7 +67,7 @@ SUFFOCATION:
   - "<green><[victim]> <yellow>забыл как дышать."
   - "<green><[victim]> <yellow>забыл про воздух."
 SUICIDE:
-  - "<green><[victim]> <yellow>был убит <green><[victim]><yellow>. Это как вообще?"
+  - "<green><[victim]> <yellow>был убит <green><[victim]><yellow>. Стоп. Что? Это как вообще?"
   - "<green><[victim]> <yellow>совершил судоку. Эээ, нет... Я хотел сказать <red>самоубийство<yellow>."
 VOID:
   - "<green><[victim]> <yellow>нашёл <red>Пустоту<yellow>."
